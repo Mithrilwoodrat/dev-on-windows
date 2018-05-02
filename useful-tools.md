@@ -16,3 +16,10 @@
  * idea (Java Scala)
  * liteide (Go)
  * Eclipse CDT (C/C++)
+
+## Note
+ * [vnote](https://github.com/tamlok/vnote)
+ * OneNote
+ 
+## CloudDrive
+ * OneDrive
