@@ -1,5 +1,6 @@
 ## Terminal
  * [ConEmu](https://github.com/Maximus5/ConEmu) Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+    Set Integration ConEmu Here Command `{Bash::bash} -cur_console:n`,If WSL installed.
 ## Shell
  * q - Run SQL directly on CSV or TSV files http://harelba.github.io/q/
  
