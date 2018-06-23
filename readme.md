@@ -5,3 +5,6 @@
 
 ## Setup ConEmu
 * Add/refresh default tasks After Install WSL or Msys2
+
+## Setup Msys2 Home
+* [Set up $HOME](https://github.com/valtron/llvm-stuff/wiki/Set-up-Windows-dev-environment-with-MSYS2) 
