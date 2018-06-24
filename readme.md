@@ -11,3 +11,4 @@
   Edit /etc/fastic add line `:/Users/<username> /home/<username> ntfs binary,noacl,auto 1 1` to enable ssh client find your config
   
 ## Install  Visual C++ Build Tools 2015
+edit ~/.bashrc add `export PATH=$PATH:/c/Program\ Files\ \(x86\)/MSBuild/14.0/Bin`
