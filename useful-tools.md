@@ -12,7 +12,7 @@
  * WSL(ubuntu/kali)(win10)
  
 ## Editor
- * Notepad++ (XML Json... more)
+ * Notepad++ (XML Json... more) (set theme [solarized](https://github.com/walesmd/notepad-plus-plus-solarized))
  * Visual Studio Code
  
 ## IDE
